@@ -10,3 +10,5 @@ echo "Se movio Correctamente a Imagenes"
 sudo apt install php -y
 php -v
 echo "Se instalo correctamente el php"
+
+echo "---Todo ejecutado Correctamente----"
